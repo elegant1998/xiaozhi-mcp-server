@@ -86,9 +86,9 @@ MIT
 
 
 
-<img src="/Users/wanglijie/HappyLife/18-AI/XiaoZhi-OpenClaw/img/image-20260302090718564.png" alt="image-20260202125738101" style="zoom:30%;" />
+<img src="img/image-20260302090718564.png" alt="image-20260202125738101" style="zoom:30%;" />
 
-<img src="/Users/wanglijie/HappyLife/18-AI/XiaoZhi-OpenClaw/img/20260308133243_177_21.jpg" alt="20260308122132_186_69" style="zoom:20%;"/>
+<img src="img/20260308133243_177_21.jpg" alt="20260308122132_186_69" style="zoom:20%;"/>
 
 见固件目录
 
@@ -98,5 +98,5 @@ MIT
 
 扫码加入瞄小智QQ群，一起探索：
 
-<img src="/Users/wanglijie/HappyLife/18-AI/xiaozhi-mcp-server/img/qrcode_miaoxiaozhi_qq.jpg" alt="qrcode_miaoxiaozhi_qq" style="zoom:33%;" />
+<img src="img/qrcode_miaoxiaozhi_qq.jpg" alt="qrcode_miaoxiaozhi_qq" style="zoom:33%;" />
 
