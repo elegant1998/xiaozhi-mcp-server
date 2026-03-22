@@ -1,0 +1,41 @@
+{
+  "name": "xiaozhi-mcp-server",
+  "version": "2.0.0",
+  "description": "xiaozhi-esp32 MCP Server for OpenClaw - WebSocket real-time push support",
+  "main": "scripts/server.py",
+  "scripts": {
+    "start": "bash scripts/start.sh",
+    "stop": "bash scripts/stop.sh"
+  },
+  "keywords": [
+    "openclaw",
+    "xiaozhi",
+    "mcp",
+    "websocket",
+    "esp32"
+  ],
+  "author": "OpenClaw",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/openclaw/xiaozhi-mcp-server"
+  },
+  "engines": {
+    "python": ">=3.8"
+  },
+  "dependencies": {
+    "aiohttp": ">=3.8.0"
+  },
+  "openclaw": {
+    "skillType": "integration",
+    "provides": [
+      "mcp-server",
+      "websocket-push"
+    ],
+    "configFile": "config.yaml",
+    "endpoints": {
+      "http": "/mcp",
+      "websocket": "/ws"
+    }
+  }
+}
