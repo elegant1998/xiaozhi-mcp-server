@@ -84,7 +84,7 @@ MIT
 
 <img src="img/20260308133243_177_21.jpg" alt="20260308122132_186_69" style="zoom:20%;"/>
 
-[见固件目录](https://github.com/elegant1998/xiaozhi-mcp-server/miaoxiaozhi)
+[见固件目录](https://github.com/elegant1998/xiaozhi-mcp-server/tree/main/miaoxiaozhi)
 
 没有对应硬件板子的，需要定制的，请进QQ群提需求。
 
