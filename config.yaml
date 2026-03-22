@@ -9,7 +9,7 @@ token: ""
 
 # xiaozhi-esp32 target session (for run_agent tool)
 # Format: qqbot:c2c:USER_ID or other OpenClaw session format
-target_session: "qqbot:c2c:123456789"
+target_session: ""
 
 # Task timeout in seconds
 task_timeout: 180
